@@ -1,0 +1,23 @@
+story : s1
+slides: s2
+slidesRotate: r2
+showScroll: w
+cardBox: b1
+card: cd1
+stories: c1
+parent: p1
+
+scene: s3
+face: f1
+front: f2
+back: f3
+tilted: t1
+
+btnPanel: b2
+left: l1
+right: r1
+
+content: c2
+first: n1
+second: n2
+
